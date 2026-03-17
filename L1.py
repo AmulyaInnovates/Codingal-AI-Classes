@@ -1,4 +1,4 @@
-print("Hey Hi how are you doing? Enter your name :- ")
+﻿print("Hey Hi how are you doing? Enter your name :- ")
 
 name=input("Enter your name: ")
 
